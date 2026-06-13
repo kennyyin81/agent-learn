@@ -1,0 +1,19 @@
+# Build outputs
+bin/
+dist/
+*.exe
+*.test
+
+# Go workspace/cache files that are usually local
+go.work
+go.work.sum
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# VS Code Code Runner temporary files
+tempCodeRunnerFile.go
+
