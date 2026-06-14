@@ -1,0 +1,25 @@
+# Local environment variables
+.env
+
+# Local knowledge-base documents
+/data/**/*.txt
+/data/**/*.md
+/data/**/*.markdown
+/data/**/*.doc
+/data/**/*.docx
+/data/**/*.pdf
+/data/**/*.rtf
+/data/**/*.odt
+
+# Generated vector index may contain document content
+/store/index.json
+
+# Generated code artifacts
+/data/**/__pycache__/
+/data/**/*.pyc
+/data/**/*.class
+/data/**/*.exe
+/data/**/*.dll
+/data/**/*.so
+/data/**/*.dylib
+
